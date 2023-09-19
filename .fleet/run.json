@@ -2,9 +2,9 @@
     "configurations": [
         {
             "type": "gradle",
-            "name": "Gradle configuration",
+            "name": "Run",
             "tasks": ["run"],
-        },
+        }
         
     ]
 }
